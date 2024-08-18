@@ -225,6 +225,7 @@ CLASSINFO(ArdourMarker);
 CLASSINFO(AudioRegionView);
 CLASSINFO(AxisView);
 CLASSINFO(MarkerSelection);
+CLASSINFO(EditingContext);
 CLASSINFO(PublicEditor);
 CLASSINFO(RegionSelection);
 CLASSINFO(RegionView);
